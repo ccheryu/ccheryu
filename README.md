@@ -89,7 +89,9 @@ https://discord.gg/peranet
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ccheryu&theme=dark&hide_border=true&ring=8B0000&fire=8B0000&currStreakLabel=8B0000"/>
 </p>
+
 ---
+
 ## ♯・Friends
 
 - [@jsexp](https://github.com/hardcorefactions)
