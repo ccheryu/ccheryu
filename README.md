@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
-
 # ccheryu
 
 Designer • BuilderMC • Developer  
@@ -66,5 +63,3 @@ Structure over chaos.
 Quality over quantity.
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
