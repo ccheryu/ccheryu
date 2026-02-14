@@ -43,12 +43,12 @@ https://www.eclip.studio/
 
 <img src="https://i.imgur.com/uMZYX0N.png" width="55" align="left"/>
 
-» **Founder** _EclipseAI_  
+» **CEO** _EclipseAI_  
 https://eclipseai.eclip.studio/
 
 <br clear="left"/><br>
 
-<img src="https://i.imgur.com/dIL5ywC.jpeg" width="55" align="left"/>
+<img src="blob:https://imgur.com/a0e81925-d854-484c-89d4-b506191100f3" width="55" align="left"/>
 
 » **CEO** _PeraNetwork_  
 https://discord.gg/peranet
