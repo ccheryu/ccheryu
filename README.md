@@ -18,7 +18,7 @@
 
 ---
 
-## ✟ About
+## ✟・About
 
 I specialize in **Developing advanced Discord bots**  
 and **Building structured Minecraft environments**.
@@ -27,7 +27,39 @@ Focused on **scalable systems**, **automation**, and clean architectural executi
 
 ---
 
-## ♯ Specialization
+## ♯・Leadership & Products
+⠀
+⠀
+⠀
+⠀
+<div>
+  
+<img src="https://i.imgur.com/QZdkuCT.png" width="55" align="left"/>
+
+» **CEO** _EclipStudio_  
+https://www.eclip.studio/
+
+<br clear="left"/><br>
+
+<img src="https://i.imgur.com/uMZYX0N.png" width="55" align="left"/>
+
+» **Founder** _EclipseAI_  
+https://eclipseai.eclip.studio/
+
+<br clear="left"/><br>
+
+<img src="https://i.imgur.com/dIL5ywC.jpeg" width="55" align="left"/>
+
+» **CEO** _PeraNetwork_  
+https://discord.gg/peranet
+
+<br clear="left"/>
+
+</div>
+
+---
+
+## ♯・Specialization
 
 - **Discord Bot Development** (Advanced Systems & Automation)
 - **Minecraft Network Building** (Professional Structures & Layout Design)
@@ -36,7 +68,7 @@ Focused on **scalable systems**, **automation**, and clean architectural executi
 
 ---
 
-## ♯ Tech Stack
+## ♯・Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb" />
@@ -48,7 +80,7 @@ Focused on **scalable systems**, **automation**, and clean architectural executi
 
 ---
 
-## ♯ GitHub Metrics
+## ♯・GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ccheryu&show_icons=true&theme=transparent&title_color=8B0000&text_color=ffffff&icon_color=8B0000&hide_border=true"/>
@@ -62,8 +94,8 @@ Focused on **scalable systems**, **automation**, and clean architectural executi
 
 <div align="center">
 
-✟ **Precision over noise**  
-✟ **Structure over chaos**  
-✟ **Quality over quantity**
+✟・**Precision over noise**  
+✟・**Structure over chaos**  
+✟・**Quality over quantity**
 
 </div>
