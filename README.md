@@ -48,7 +48,7 @@ https://eclipseai.eclip.studio/
 
 <br clear="left"/><br>
 
-<img src="blob:https://imgur.com/a0e81925-d854-484c-89d4-b506191100f3" width="55" align="left"/>
+<img src="[blob:https://imgur.com/a0e81925-d854-484c-89d4-b506191100f3](https://i.ibb.co/N6c3QXBM/Logo-Pera-Network.png)" width="55" align="left"/>
 
 » **CEO** _PeraNetwork_  
 https://discord.gg/peranet
