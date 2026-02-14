@@ -94,8 +94,8 @@ https://discord.gg/peranet
 
 ## ♯・Friends
 
-- [@jsexp](https://github.com/hardcorefactions)
-- [@bycoquito](https://github.com/ByCoquito)
+- [@Jsexp](https://github.com/hardcorefactions)
+- [@ByCoquito](https://github.com/ByCoquito)
 
 ---
 
