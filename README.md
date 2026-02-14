@@ -83,10 +83,6 @@ https://discord.gg/peranet
 ## ♯・GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccheryu&show_icons=true&theme=transparent&title_color=8B0000&text_color=ffffff&icon_color=8B0000&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ccheryu&theme=dark&hide_border=true&ring=8B0000&fire=8B0000&currStreakLabel=8B0000"/>
 </p>
 
