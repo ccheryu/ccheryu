@@ -92,6 +92,7 @@ https://discord.gg/peranet
 
 - [@Jsexp](https://github.com/hardcorefactions)
 - [@ByCoquito](https://github.com/ByCoquito)
+- [@C0munidad](https://github.com/Suspendido)
 
 ---
 
