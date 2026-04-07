@@ -94,6 +94,7 @@ https://discord.gg/peranet
 - [@ByCoquito](https://github.com/ByCoquito)
 - [@C0munidad](https://github.com/Suspendido)
 - [@Modplus](https://github.com/mmodplus)
+- [@Vals](https://github.com/v4lss)
 
 ---
 
