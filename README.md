@@ -41,17 +41,10 @@ https://www.eclip.studio/
 
 <br clear="left"/><br>
 
-<img src="https://i.imgur.com/uMZYX0N.png" width="55" align="left"/>
+<img src="https://i.imgur.com/J0jUWIS.jpeg" width="55" align="left"/>
 
-» **CEO** _EclipseAI_  
-https://eclipseai.eclip.studio/
-
-<br clear="left"/><br>
-
-<img src="https://media.discordapp.net/attachments/970008385787429014/1472068770515390668/LogoPeraNetwork.png?ex=69913a60&is=698fe8e0&hm=099c7610986bcf845f88783ec9f706e18b7539d45619f9d043cc2c61747bb840&=&format=webp&quality=lossless&width=978&height=978" width="55" align="left"/>
-
-» **CEO** _PeraNetwork_  
-https://discord.gg/peranet
+» **CEO** _NebulaMC_  
+https://discord.gg/enderman
 
 <br clear="left"/>
 
