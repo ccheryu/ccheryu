@@ -41,7 +41,7 @@ https://www.eclip.studio/
 
 <br clear="left"/><br>
 
-<img src="https://i.imgur.com/J0jUWIS.jpeg" width="55" align="left"/>
+<img src="https://github.com/user-attachments/assets/a4281a76-6d6b-417f-a21a-8f905923c96b" width="55" align="left"/>
 
 » **CEO** _NebulaMC_  
 https://discord.gg/enderman
